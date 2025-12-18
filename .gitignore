@@ -1,0 +1,22 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Binary
+bin/
+*.exe
+
+# Coverage
+coverage.out
+coverage.html
+
+# IDE
+.idea/
+*.swp
+*.swo
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
